@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Melungeons Project"
-copyright = "2023, Melungeons Documentation team"
-author = "Melungeons Documentation team"
+project = "TikLib3 Project"
+copyright = "2023, TikLib3 Documentation team"
+author = "TikLib3 Documentation team"
 
 
 # -- General configuration ---------------------------------------------------

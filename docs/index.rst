@@ -1,97 +1,45 @@
-.. include:: ../README.rst
+==============================================
+TikLib - Transforming TikTok Sounds into Personal Ringtones
+==============================================
 
-=========================================
-Guidelines for Exploring Melungeon Heritage in Famous Americans
-=========================================
+To transform a TikTok sound into your ringtone, the process involves several straightforward steps. Start by downloading the TikTok video containing the desired sound. This can be achieved by tapping on the share button present on the video and then opting for Save video, which will store the video locally on your device.
 
-Reference and resources: `Lest We Forget: The Melungeon Colony of Newman's Ridge Paperback – January 1, 2000 <https://www.amazon.com/Lest-We-Forget-Melungeon-Newmans/dp/157072167X>`_
+After obtaining the video, the next phase is converting it into an MP3 file. Various online platforms offer this service for free, including Zamzar and Media.io. These platforms typically provide user-friendly interfaces, allowing for straightforward file conversion. Remember to select a high-quality conversion setting to ensure that the sound retains its original quality.
 
-Introduction
-============
+Once the file is in MP3 format, it may need to be trimmed to the appropriate length for a ringtone. Audacity and WavePad are two popular free audio editors that can accomplish this task. When trimming, it is advisable to allow a few seconds of silence at both the beginning and the end of the file to avoid abrupt starts or stops when the ringtone is activated.
 
-The mystery of Melungeons, a tri-racial group in the U.S. with unclear origins, 
-has captivated historians and the public alike. Intriguingly, two American icons, 
-Abraham Lincoln and Elvis Presley, are often cited as possible Melungeons.
+Transferring the newly created MP3 file to your phone is the subsequent step. Utilize a USB cable or a cloud storage service like Google Drive or Dropbox for this purpose. By uploading the file to the cloud and subsequently downloading it to your phone, you ensure the file is readily available for setting as a ringtone.
 
-Guidelines
-==========
+Lastly, set the MP3 as your ringtone. This process may differ based on the phone model, but guidelines are generally available on the manufacturer's website or in the phone’s settings.
 
-Objective Research
-------------------
+For those encountering issues during the file transfer, alternative solutions include file transfer apps such as Send Anywhere or AirDroid. These apps facilitate the transfer of files between devices seamlessly.
 
-Start with verified genealogical data and historical documents to explore claims 
-about Melungeon heritage especially for the most `famous melungeons <https://www.knot35.com/toplist/list-of-famous-melungeons/>`_ people in history. Avoid drawing conclusions based solely on physical appearance 
-or unverified accounts.
+By meticulously following the aforementioned steps and utilizing the suggested tools, you’ll be well on your way to enjoying your preferred TikTok sounds as personalized ringtones, adding a touch of uniqueness to your phone notifications.
 
-Contextual Understanding
--------------------------
+Turning a sound from TikTok into your ringtone can be accomplished in a few easy steps. 
 
-Remember that the term "Melungeon" has been used in various ways throughout history, 
-often laden with social or racial implications. Consider the historical context when 
-evaluating any claims.
+1. **Download the TikTok Video:**
+   Start by downloading the desired TikTok video. Tap on the share button and select Save video.
 
-Biographical Cross-referencing
-------------------------------
+2. **Convert to MP3:**
+   Use an online converter like Zamzar or Media.io to change the video file to MP3. Ensure a high-quality conversion setting is chosen.
 
-Look for autobiographical statements, interviews, or verified writings by the person 
-in question that might lend credence to or disprove claims about Melungeon ancestry.
+3. **Trim the MP3 File:**
+   Utilize audio editors like Audacity or WavePad to trim the file to ringtone length. Leave a few seconds of silence at both ends to avoid abruptness.
 
-Scientific Evidence
--------------------
+4. **Transfer the MP3 File to Your Phone:**
+   Use a USB cable or cloud storage services like Google Drive or Dropbox for the transfer.
 
-DNA analysis can offer strong evidence but should be coupled with genealogical research 
-for a more complete picture.
-
-Public Records
---------------
-
-Check birth, marriage, and death records, as well as census data, for any mention of 
-Melungeon heritage or associated surnames commonly linked to Melungeons.
-
-Literature Review
------------------
-
-Consult academic papers, journals, and reliable publications that discuss the historical 
-and social aspects of Melungeons. Make sure your information comes from credible sources.
-
-Family Trees
-------------
-
-Explore extended family trees to identify any common lineage with known Melungeons, 
-as family connections can provide additional avenues for verifying heritage claims.
-
-Critical Analysis
------------------
-
-Be wary of biases and stereotypes that may influence public or historical accounts. 
-Question the validity of any claims that lack proper evidence.
-
-Cultural Sensitivity
----------------------
-
-Handle the topic with the understanding that discussions around ethnicity and race are 
-sensitive and should be approached respectfully.
-
-Update Regularly
-----------------
-
-Given that research into `Melungeon heritage <https://paketmu.com/top-12-famous-melungeons-who-are-they/>`_ is ongoing, periodically update your 
-information as new data or publications become available.
-
-Conclusion
-==========
-
-By following these guidelines, researchers and enthusiasts can approach the subject 
-of Melungeon ancestry among famous Americans like Abraham Lincoln and Elvis Presley 
-in an informed and respectful manner.
+5. **Set as Ringtone:**
+   The procedure varies with the phone model, but guidelines can typically be found on the manufacturer's website.
 
 .. note::
+   In case of transfer issues, file transfer apps such as Send Anywhere or AirDroid can be handy alternatives.
 
-   This project is under active development.
+Following these comprehensive steps will enable you to enjoy your favorite TikTok sounds as unique and personalized ringtones!
 
-Contents
---------
+*References:*
 
-.. toctree::
-
-   Home <self>
+- `TikTok ke WA <https://karinov.co.id/download-sound-tiktok-ke-wa/>`_
+- `Sound TikTok nada dering WA <https://navi.id/begini-cara-sound-tiktok-jadi-nada-dering-wa-biar-keren-dan-anti-mainstream/>`_
+- `TikTok <https://tiktok.com>`_

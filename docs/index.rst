@@ -1,5 +1,5 @@
 ==============================================
-TikLib - Transforming TikTok Sounds into Personal Ringtones
+Tiktok to WA - Transforming TikTok Sounds into Personal Ringtones
 ==============================================
 
 To transform a TikTok sound into your ringtone, the process involves several straightforward steps. Start by downloading the TikTok video containing the desired sound. This can be achieved by tapping on the share button present on the video and then opting for Save video, which will store the video locally on your device.
